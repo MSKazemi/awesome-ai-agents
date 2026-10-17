@@ -5589,3 +5589,9 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+<!-- fork-notice: start -->
+### Legal notice for this fork
+
+This repository is a fork of an upstream project. The original authors' licenses, copyrights and terms remain in force. Read the [Supplemental Fork Risk Notice](DISCLAIMER.md) for information about the fork maintainer's contributions. This notice does not amend upstream terms or waive mandatory rights.
+<!-- fork-notice: end -->
